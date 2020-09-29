@@ -14,4 +14,6 @@ label_2.pack()
 
 text_box = tk.Text()
 text_box.pack()
+name = input("Name?")
+print(name)
 window.mainloop()
